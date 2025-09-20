@@ -1,4 +1,4 @@
-#chagelog
+#Changelog
 
 ##v1.0.0
 - proyecto inicial
