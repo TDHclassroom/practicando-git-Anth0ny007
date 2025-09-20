@@ -1,5 +1,5 @@
 # Mi Proyecto Git
 Este es mi primer proyecto usando Git.
 
-## Caracteristicas
+## Características
 - Aprendiendo git paso a paso
